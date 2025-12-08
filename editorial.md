@@ -1,7 +1,6 @@
 # Editorial
 
-This is a base stylesheet created for copyeditors beginning work on client manuscripts.
-- [Editorial Stylesheet](https://docs.google.com/document/d/1vYCyyRgaoGu1-VXPW_Xxi-qp9jM7VABf/edit?usp=sharing&ouid=108483549820205946465&rtpof=true&sd=true)
+[Editorial Stylesheet](https://docs.google.com/document/d/1vYCyyRgaoGu1-VXPW_Xxi-qp9jM7VABf/edit?usp=sharing&ouid=108483549820205946465&rtpof=true&sd=true): This is a base stylesheet created for copyeditors beginning work on client manuscripts.
 
 Here are some examples of books that I have copyedited.
 
